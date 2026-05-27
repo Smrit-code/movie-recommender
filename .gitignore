@@ -1,0 +1,10 @@
+# Ignore ML artifacts
+*.pkl
+processed_movies.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data files
+data/*.csv
